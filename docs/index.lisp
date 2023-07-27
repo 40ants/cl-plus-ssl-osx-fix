@@ -38,7 +38,11 @@
                                    "HTTP"
                                    "TODO"
                                    "Unlicense"
+                                   "SSL"
+                                   "CL+"
+                                   "OSX"
                                    "REPL"
+                                   "X86-64"
                                    "GIT"))
   (cl-plus-ssl-osx-fix system)
   "
