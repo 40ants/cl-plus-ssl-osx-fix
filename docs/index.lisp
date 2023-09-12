@@ -38,6 +38,7 @@
                                    "HTTP"
                                    "TODO"
                                    "Unlicense"
+                                   "NOTE"
                                    "SSL"
                                    "CL+"
                                    "OSX"
