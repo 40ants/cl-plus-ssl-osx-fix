@@ -24,6 +24,8 @@
 
 ![](http://quickdocs.org/badge/cl-plus-ssl-osx-fix.svg)
 
+`NOTE`: This fix should be unnecessary after the latest changes in `CL+``SSL` introduced in [this PR][25a1].
+
 <a id="x-28CL-PLUS-SSL-OSX-FIX-DOCS-2FINDEX-3A-3A-40INSTALLATION-2040ANTS-DOC-2FLOCATIVES-3ASECTION-29"></a>
 
 ## Installation
@@ -49,6 +51,7 @@ Note, this library should be loaded first, before an attempt for `CL+``SSL` load
 [7bd8]: https://github.com/40ants/cl-plus-ssl-osx-fix
 [aff4]: https://github.com/40ants/cl-plus-ssl-osx-fix/actions
 [5f09]: https://github.com/40ants/cl-plus-ssl-osx-fix/issues
+[25a1]: https://github.com/cl-plus-ssl/cl-plus-ssl/pull/180
 [fca9]: https://quickdocs.org/cl+ssl
 
 * * *
