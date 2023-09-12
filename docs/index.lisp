@@ -49,6 +49,8 @@
 [![](https://github-actions.40ants.com/40ants/cl-plus-ssl-osx-fix/matrix.svg?only=ci.run-tests)](https://github.com/40ants/cl-plus-ssl-osx-fix/actions)
 
 ![Quicklisp](http://quickdocs.org/badge/cl-plus-ssl-osx-fix.svg)
+
+NOTE: This fix should be unnecessary after the latest changes in CL+SSL introduced in [this PR](https://github.com/cl-plus-ssl/cl-plus-ssl/pull/180).
 "
   (@installation section)
   (@usage section))
