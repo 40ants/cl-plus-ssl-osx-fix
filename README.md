@@ -7,17 +7,11 @@
 ## CL-PLUS-SSL-OSX-FIX ASDF System Details
 
 * Description: A fix for `CL+``SSL` library paths on `OSX` needed when you have Intel and Arm64 Homebrew installations. Should be loaded before `CL+``SSL`.
-
 * Licence: Unlicense
-
 * Author: Alexander Artemenko <svetlyak.40wt@gmail.com>
-
 * Homepage: [https://40ants.com/cl-plus-ssl-osx-fix/][feb5]
-
 * Bug tracker: [https://github.com/40ants/cl-plus-ssl-osx-fix/issues][5f09]
-
 * Source control: [GIT][7bd8]
-
 * Depends on: [cl+ssl][fca9]
 
 [![](https://github-actions.40ants.com/40ants/cl-plus-ssl-osx-fix/matrix.svg?only=ci.run-tests)][aff4]
